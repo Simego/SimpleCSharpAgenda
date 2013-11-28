@@ -1,0 +1,10 @@
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Release\SQLite.Interop.dll
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Release\ControleDeContatos.exe
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Release\ControleDeContatos.pdb
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Release\System.Data.SQLite.dll
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Release\ControleDeContatos.View.TelaAtividade.resources
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Release\ControleDeContatos.TelaPrincipal.resources
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Release\ControleDeContatos.Properties.Resources.resources
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Release\ControleDeContatos.csproj.GenerateResource.Cache
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Release\ControleDeContatos.exe
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Release\ControleDeContatos.pdb

@@ -1,0 +1,11 @@
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\ControleDeContatos.View.TelaAtividade.resources
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\ControleDeContatos.TelaPrincipal.resources
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\ControleDeContatos.Properties.Resources.resources
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\ControleDeContatos.csproj.GenerateResource.Cache
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\SQLite.Interop.dll
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\ControleDeContatos.exe
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\ControleDeContatos.pdb
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\System.Data.SQLite.dll
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\ControleDeContatos.exe
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\ControleDeContatos.pdb
+E:\Dropbox\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\ControleDeContatos.csprojResolveAssemblyReference.cache
